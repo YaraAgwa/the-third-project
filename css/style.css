@@ -1,0 +1,26 @@
+.body{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+ 
+.navbar-brand{
+    background: -webkit-linear-gradient(right,rgb(201, 126, 21) 50%,rgb(2, 2, 2) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+ 
+.icon{
+    position: fixed;
+    z-index:20;
+    top:200px;
+    right:50px;
+    font-size:50px;
+  
+}
+.icon div a i {
+    color:rgb(243, 193, 129);
+    
+}
+ 
